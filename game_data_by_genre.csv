@@ -128,7 +128,7 @@ First-Person Shooter,CrossFire Mobile,6780944.77,280,40
 First-Person Shooter,Crysis,11340.95,0,2
 First-Person Shooter,Day of Defeat,51180.41,43,4
 First-Person Shooter,Day of Defeat: Source,14068.57,50,8
-First-Person Shooter,Descent 3,50000.00,1 Player,1
+First-Person Shooter,Descent 3,50000.00,1,1
 First-Person Shooter,Diabotical,265072.09,399,388
 First-Person Shooter,Doom (2016),7000.00,6,1
 First-Person Shooter,Doom 3,257748.16,14,4
@@ -250,7 +250,7 @@ Role-Playing Game,Naraka: Bladepoint,5558830.52,205,16
 Role-Playing Game,Old School Runescape,457504.20,84,26
 Role-Playing Game,Red Stone,58000.00,12,2
 Role-Playing Game,Stardew Valley,97850.00,69,3
-Role-Playing Game,Tibia,952.94,1 Player,1
+Role-Playing Game,Tibia,952.94,1,1
 Role-Playing Game,World of WarCraft,9150537.61,503,225
 Fighting Game,Acceleration of SUGURI 2,410.00,8,3
 Fighting Game,Akatsuki Blitzkampf,20.00,3,1
@@ -509,7 +509,7 @@ Racing,Trackmania United Forever,7174.07,26,3
 Racing,Trials Fusion,0.00,0,0
 Racing,Turbo Racing League,1000000.00,16,9
 Racing,Void Racer,460.00,4,1
-Racing,WRC 10 FIA World Rally Championship,25250.00,1 Player,1
+Racing,WRC 10 FIA World Rally Championship,25250.00,1,1
 Sports,Carom 3D,60500.00,11,4
 Sports,Dream league Soccer,0.00,0,0
 Sports,EA Sports FC 24,7356431.34,348,76
@@ -552,10 +552,10 @@ Sports,Golf With Your Friends,19400.00,11,2
 Sports,Gran Turismo 7,21387.05,15,5
 Sports,Gym Masters VR,500.00,4,1
 Sports,Just Hoops,0.00,0,0
-Sports,Madden NFL 06,100000.00,1 Player,1
-Sports,Madden NFL 07,100000.00,1 Player,1
-Sports,Madden NFL 08,100000.00,1 Player,1
-Sports,Madden NFL 09,100000.00,1 Player,1
+Sports,Madden NFL 06,100000.00,1,1
+Sports,Madden NFL 07,100000.00,1,1
+Sports,Madden NFL 08,100000.00,1,1
+Sports,Madden NFL 09,100000.00,1,1
 Sports,Madden NFL 13,400000.00,8,1
 Sports,Madden NFL 16,50000.00,8,1
 Sports,Madden NFL 17,1004000.00,42,5
@@ -573,13 +573,13 @@ Sports,NBA 2K Online,0.00,0,0
 Sports,NBA 2K Online 2,0.00,0,0
 Sports,NBA 2K18,1000000.00,91,4
 Sports,NBA 2K19,1330000.00,78,4
-Sports,NBA 2K20,250000.00,1 Player,1
+Sports,NBA 2K20,250000.00,1,1
 Sports,NBA 2K21,1330501.00,64,3
 Sports,NBA 2K22,2650000.00,92,7
 Sports,NBA 2K23,2925000.00,105,9
 Sports,NHL '94,3818.56,16,8
 Sports,NHL 12,702.93,6,2
-Sports,NHL 13,70000.00,1 Player,1
+Sports,NHL 13,70000.00,1,1
 Sports,NHL 14,3023.96,6,3
 Sports,NHL 15,3157.16,3,3
 Sports,NHL 17,0.00,0,0
